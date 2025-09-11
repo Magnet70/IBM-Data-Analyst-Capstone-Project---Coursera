@@ -111,3 +111,19 @@ After gathering the data, you will apply data-wrangling techniques to prepare th
 Once the data is prepared, you will employ statistical techniques to analyze the data, identifying key trends and insights. You will then synthesize your findings using IBM Cognos Analytics to create a dashboard that visualizes the results. Finally, you will share your insights through a presentation, showcasing your storytelling and data analysis skills.
 
 
+
+## 📊 Dashboard Preview
+
+![Dashboard Preview](Screenshot_20250911_190031.jpg)
+
+👉 [View Full Dashboard](https://lookerstudio.google.com/u/0/reporting/68379f79-fd29-43a6-a2c8-c4b7e0b4fcc0/page/nNsXF/edit)
+
+
+
+
+
+
+
+
+
+
